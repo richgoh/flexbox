@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(228, 224, 245);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .elem {
+  width: 800px;
+}
+body .item {
+  border: 2px solid rgb(14, 13, 13);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center;
+}
+body #conteneur {
+  width: 800px;
+  height: 900px;
+}
+body .enfants2345 {
+  display: flex;
+}
+body .element2 {
+  width: 40%;
+  height: 85px;
+}
+body .petitenfant345 {
+  width: 80%;
+}
+body .souspetit {
+  display: flex;
+  width: 100%;
+}
+body .items {
+  width: 50%;
+}
+body .items3 {
+  display: flex;
+}
+body .item4 {
+  flex: 2;
+}
+body .item5 {
+  flex: 1;
+}/*# sourceMappingURL=pratique1.css.map */
